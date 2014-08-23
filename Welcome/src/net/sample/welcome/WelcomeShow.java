@@ -13,7 +13,7 @@ public class WelcomeShow extends View {
 	}
 	
 	protected void onDraw(Canvas canvas){
-		canvas.drawText("Welcome Andriud World Touch git hub pull!",
+		canvas.drawText("Welcome Andriud World Touch git hub push!",
 				0, 12, new Paint());
 	}
 }
